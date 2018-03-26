@@ -1,0 +1,578 @@
+[
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Donate",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Donate to PayPal.me/biuziceca"
+        ],
+        "server" : null,
+        "triggered" : 4,
+        "triggered_by" : "Esperanza, I want to donate",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "BOTG",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "file: botg.gif"
+        ],
+        "server" : null,
+        "triggered" : 10,
+        "triggered_by" : "Bring on the bitches",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "chocorain",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "file: chocolaterain.jpg"
+        ],
+        "server" : null,
+        "triggered" : 13,
+        "triggered_by" : "Chocolate rain",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "wth",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "file: whattheheck.jpg"
+        ],
+        "server" : null,
+        "triggered" : 7,
+        "triggered_by" : "This bot is broken",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Mom",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Mommy...?"
+        ],
+        "server" : null,
+        "triggered" : 3,
+        "triggered_by" : "Sweetie, it\u2019s mommy Pearl",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Dad",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "NOOOOOOOOOOO"
+        ],
+        "server" : null,
+        "triggered" : 4,
+        "triggered_by" : "Esperanza, I am your father.",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Grandma",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Hi Grammy Ducky!"
+        ],
+        "server" : null,
+        "triggered" : 2,
+        "triggered_by" : "I'm your grandm",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "bad",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Esperanza good!"
+        ],
+        "server" : null,
+        "triggered" : 1,
+        "triggered_by" : "Esperanza, bad",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "bad2",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Good Esperanza!"
+        ],
+        "server" : null,
+        "triggered" : 7,
+        "triggered_by" : "Bad Esperanza",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "scwa",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "SCWA."
+        ],
+        "server" : null,
+        "triggered" : 13,
+        "triggered_by" : "scwa",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "caw",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "CAW CAW!"
+        ],
+        "server" : null,
+        "triggered" : 17,
+        "triggered_by" : "caw",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "duck",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "QUACK QUACK."
+        ],
+        "server" : null,
+        "triggered" : 4,
+        "triggered_by" : "Quack",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "wark",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "WARK."
+        ],
+        "server" : null,
+        "triggered" : 7,
+        "triggered_by" : "wark",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "roll",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "*Rolls around with.*"
+        ],
+        "server" : null,
+        "triggered" : 3,
+        "triggered_by" : "rolls around",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "naked",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "NO. CLOTHES ON. NOW."
+        ],
+        "server" : null,
+        "triggered" : 6,
+        "triggered_by" : "runs around naked",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "nLuny",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "I know you are. \ud83c\udf1a"
+        ],
+        "server" : null,
+        "triggered" : 1,
+        "triggered_by" : "Naughty Luni",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "POSITIVTY!!!!!",
+        "owner" : "386607753470279683",
+        "regex" : false,
+        "responses" : [
+            "NEVER. YOU ARE LOVED \ud83d\udc99"
+        ],
+        "server" : null,
+        "triggered" : 10,
+        "triggered_by" : "kms",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "blush",
+        "owner" : "386607753470279683",
+        "regex" : false,
+        "responses" : [
+            "AWW SO CUTE"
+        ],
+        "server" : null,
+        "triggered" : 5,
+        "triggered_by" : "murrr",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "ha-nope",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "\ud83d\udc9c YOU MATTER AND ARE LOVED \ud83d\udc9c"
+        ],
+        "server" : null,
+        "triggered" : 5,
+        "triggered_by" : "Kill me",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Neko",
+        "owner" : "329664769785069578",
+        "regex" : false,
+        "responses" : [
+            "Pervert!"
+        ],
+        "server" : null,
+        "triggered" : 7,
+        "triggered_by" : "Boobs",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Quill",
+        "owner" : "329664769785069578",
+        "regex" : false,
+        "responses" : [
+            "NEVVVVVAAAAAAA!!!!"
+        ],
+        "server" : null,
+        "triggered" : 4,
+        "triggered_by" : "Fite me honey",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Quill2",
+        "owner" : "329664769785069578",
+        "regex" : false,
+        "responses" : [
+            "I'd win and you know damn well I would"
+        ],
+        "server" : null,
+        "triggered" : 2,
+        "triggered_by" : "Fite me honey!",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Myle",
+        "owner" : "329664769785069578",
+        "regex" : false,
+        "responses" : [
+            "Right back at ya."
+        ],
+        "server" : null,
+        "triggered" : 7,
+        "triggered_by" : "Pussy",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Be",
+        "owner" : "329664769785069578",
+        "regex" : false,
+        "responses" : [
+            "*pats* dun cry, be happy"
+        ],
+        "server" : null,
+        "triggered" : 0,
+        "triggered_by" : "Happy T^T",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Be_Happy",
+        "owner" : "329664769785069578",
+        "regex" : false,
+        "responses" : [
+            "*pats* dun cry, be happy."
+        ],
+        "server" : null,
+        "triggered" : 4,
+        "triggered_by" : "T^T",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "No_Poke",
+        "owner" : "352260101702418432",
+        "regex" : false,
+        "responses" : [
+            "H-hey stop it! M-mommy daddy help I\u2019m being touched!"
+        ],
+        "server" : null,
+        "triggered" : 2,
+        "triggered_by" : "*pokes Esperanza*",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Nu!",
+        "owner" : "352260101702418432",
+        "regex" : false,
+        "responses" : [
+            "Maybe I don\u2019t wanna be!"
+        ],
+        "server" : null,
+        "triggered" : 3,
+        "triggered_by" : "Esperanza dear be nice",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "No_Friends",
+        "owner" : "352260101702418432",
+        "regex" : false,
+        "responses" : [
+            "O-oh um, so this is pretty easy! Imagine in your brain you have 0 cookies and then you split them evenly among 0 friends! Ya see where I\u2019m going? How many cookies does each person get? See it doesn\u2019t make sense! Now you\u2019re sad you have no cookies.....and no friends...."
+        ],
+        "server" : null,
+        "triggered" : 2,
+        "triggered_by" : "Esperanza divide by zero",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "passwd",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Password is incorrect! Attempt was logged and reported to the Bot owner!"
+        ],
+        "server" : null,
+        "triggered" : 6,
+        "triggered_by" : "Esperanza, login password",
+        "type" : "all"
+    },
+    {
+        "active" : false,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "passwdC",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Enabling Esperanza page login! https://discord.gg/wNKMT32"
+        ],
+        "server" : null,
+        "triggered" : 2,
+        "triggered_by" : "Esperanza, login password: Athena9972",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Read",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Loud and clear! Text file uploaded to the server!"
+        ],
+        "server" : null,
+        "triggered" : 1,
+        "triggered_by" : "Esperanza, read this",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Athena",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Athena is now loading..."
+        ],
+        "server" : null,
+        "triggered" : 3,
+        "triggered_by" : "Esperanza, activate Athena.^",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Mom2",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Quill is!"
+        ],
+        "server" : null,
+        "triggered" : 3,
+        "triggered_by" : "Esperanza, who's your mo",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Dad2",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Biuziceca is!"
+        ],
+        "server" : null,
+        "triggered" : 2,
+        "triggered_by" : "Esperanza, who's your father",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Developers",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Anubis (Aka Cy), Emmy the Ducky, Cosmic Quill, and Seraphim!"
+        ],
+        "server" : null,
+        "triggered" : 4,
+        "triggered_by" : "Esperanza, who developed you",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Daddy",
+        "owner" : "295776945810046976",
+        "regex" : false,
+        "responses" : [
+            "Not you, that's for sure."
+        ],
+        "server" : null,
+        "triggered" : 1,
+        "triggered_by" : "Esperanza, who's your daddy",
+        "type" : "all"
+    }
+]

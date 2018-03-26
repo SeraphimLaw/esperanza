@@ -1,0 +1,74 @@
+{
+    "365109865347153921" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "BASE_PAYOUT" : 0,
+        "CHANCE_TO_PAYOUT" : 50,
+        "CHANNELS" : [],
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TOGGLE" : false,
+        "TRICKLE_BOT" : false
+    },
+    "394233253562810379" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "BASE_PAYOUT" : 0,
+        "CHANCE_TO_PAYOUT" : 50,
+        "CHANNELS" : [],
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TOGGLE" : false,
+        "TRICKLE_BOT" : false
+    },
+    "412294024649637889" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "BASE_PAYOUT" : 0,
+        "CHANCE_TO_PAYOUT" : 50,
+        "CHANNELS" : [],
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TOGGLE" : false,
+        "TRICKLE_BOT" : false
+    },
+    "417515879547273227" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "BASE_PAYOUT" : 0,
+        "CHANCE_TO_PAYOUT" : 50,
+        "CHANNELS" : [],
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TOGGLE" : false,
+        "TRICKLE_BOT" : false
+    },
+    "417550252468600845" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "BASE_PAYOUT" : 0,
+        "CHANCE_TO_PAYOUT" : 50,
+        "CHANNELS" : [],
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TOGGLE" : false,
+        "TRICKLE_BOT" : false
+    },
+    "426831669773991937" : {
+        "ACTIVE_BONUS_DEFLATE" : 1,
+        "ACTIVE_TIMEOUT" : 10,
+        "BASE_PAYOUT" : 0,
+        "CHANCE_TO_PAYOUT" : 50,
+        "CHANNELS" : [],
+        "NEW_ACTIVE_BONUS" : 1,
+        "PAYOUT_INTERVAL" : 2,
+        "PAYOUT_PER_ACTIVE" : 1,
+        "TOGGLE" : false,
+        "TRICKLE_BOT" : false
+    }
+}

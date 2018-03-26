@@ -1,0 +1,24 @@
+{
+    "Servers" : {
+        "365109865347153921" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        },
+        "426831669773991937" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        }
+    }
+}
